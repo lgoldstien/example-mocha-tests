@@ -1,0 +1,22 @@
+{
+  "name": "example-mocha-tests",
+  "version": "1.0.0",
+  "description": "A set of example mocha tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgoldstien/example-mocha-tests.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/lgoldstien/example-mocha-tests/issues"
+  },
+  "homepage": "https://github.com/lgoldstien/example-mocha-tests#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
